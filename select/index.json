@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Corner of my heart",
+  "base_artist": "WHITE SCORPION",
+  "createdAt": "2025-12-02T10:02:56.615647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Corner of My Heart",
+      "artist": "Adna",
+      "has_synced": false,
+      "path": "select/01_Corner_of_My_Heart_Adna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Corner of My Heart",
+      "artist": "The Temptations",
+      "has_synced": true,
+      "path": "select/02_Corner_of_My_Heart_The_Temptations.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Corner Of My Heart",
+      "artist": "Vanilla Ninja",
+      "has_synced": true,
+      "path": "select/03_Corner_Of_My_Heart_Vanilla_Ninja.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Your Own Little Corner Of My Heart",
+      "artist": "BlackHawk",
+      "has_synced": false,
+      "path": "select/04_Your_Own_Little_Corner_Of_My_Heart_BlackHawk.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Corner of my heart",
+      "artist": "WHITE SCORPION",
+      "has_synced": false,
+      "path": "select/pl_01_Corner_of_my_heart_WHITE_SCORPION.txt"
+    }
+  ]
+}
